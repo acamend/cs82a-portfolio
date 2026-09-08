@@ -2,6 +2,5 @@
 
 CS82 Class Labs
 
-##Contents
-
+## Contents
 -Module 2: Python Foundations
