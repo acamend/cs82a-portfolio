@@ -7,7 +7,7 @@ I am interested in using data science to understand and report on trash and plas
 **Tools:** Python, pandas, matplotlib, seaborn, scikit-learn, SQL, Jupyter
 
 ## Contents
--**Final-Project** [Plastic Pollution Collection Results](Final Project).
+-**Final-Project** Plastic Pollution Collection Results
 
 -Module 2: Python Foundations
 
