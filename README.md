@@ -11,7 +11,7 @@ I am interested in using data science to understand and report on trash and plas
 
 -Module 2: Python Foundations
 
--Module 3: Data: Types, Storage, and Cleaning
+-Module 3: Cleaning a messy data set and handling missing values
 
 -Module 4: Statistics That Answer Questions
 
