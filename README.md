@@ -1,6 +1,6 @@
 # CS 82A Data Science Portfolio
 
-Coursework and projects from CS82A at Santa Monica College, Fall 2026.
+Coursework and projects from CS82A at Santa Monica College, Fall 2026. [Link Text](File Path).
 
 I am interested in using data science to understand and report on trash and plastic pollution issues and then collaborate with others to make change/create solutions.
 
