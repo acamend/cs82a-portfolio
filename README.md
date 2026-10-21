@@ -1,8 +1,13 @@
-# Andrea Amend - Data Science Portfolio
+# CS 82A Data Science Portfolio
 
-CS82A Class Labs
+Coursework and projects from CS82A at Santa Monica College, Fall 2026.
+
+I am interested in using data science to understand and report on trash and plastic pollution issues and then collaborate with others to make change/create solutions.
+
+**Tools:** Python, pandas, matplotlib, seaborn, scikit-learn, SQL, Jupyter
 
 ## Contents
+-**Final-Project** Plastic Pollution Collection Results
 -Module 2: Python Foundations
 -Module 3: Data: Types, Storage, and Cleaning
 -Module 4: Statistics That Answer Questions
@@ -10,7 +15,6 @@ CS82A Class Labs
 -Module 6: SQL and Databases
 -Module 7: Machine Learning: Your First Predictive Models
 -Module 8: Working with AI (Generative AI)
--Module 9:
--Final Project
+-Module 9: Cloud Computing and Portfolios
 
 
