@@ -75,7 +75,7 @@ You are helping me create plots using the plastic_df database I want to create (
 
 The code worked without error. One drawback with task (1), the code is that when summarizing the plastics per month, the code is written to define each month a a period (dtype string). Therefore November, with no data, is not in the plot. I left it as is but would change that if I were to use that in a report, not just a probe of the database.
 
-**AI Prompt #3**
+**AI Prompt 3**
 I asked Gemini to provide the coding for step #3 to be a pie chart instead of bar chart. The chart is too crowded so I did not include it in this report although it can be see in my notebook.
 
 
