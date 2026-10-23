@@ -26,17 +26,21 @@ I ran a correspondance matrix to see if there was a correlation between 'plastic
 
 ## Findings
 In July of 2026, Heal the Bay logged the plastics in 13 cities, including Las Vegas Nevada.
+
 Heal The Bay logged plastics in every month of the 2026 water year, except November. 
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/211b230e142fffe11be39eb5436c45d757332941/Final%20Project/Plastics%20per%20month.png)
 
 The most plastic was logged in July.
+
 There were 5085 pieces of plastic logged by Heal the Bay in July. 
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/eb3692192fdfbcce7f42f255224ebb5e3a4d3b07/Final%20Project/Plastics%20in%20July.png)
 
 A little over 50% were classified as 'plastic pieces'. 
+
 Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and 
+
 plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/e94cb89d3fc3bee9b03b21aa1160a4abf797f8d5/Final%20Project/Plastic%20Percentages.png)
