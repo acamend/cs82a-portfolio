@@ -46,7 +46,7 @@ A little over 50% were classified as 'plastic pieces'.
 
 Single use food, related plastics made up about one third; Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
-I would like to target change in the this area. 
+This is the area where I aim to make change. I would like to create policies that reduce this type of plastic. 
 
 
 
