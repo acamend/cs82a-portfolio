@@ -3,7 +3,7 @@
 ### What types and amounts of plastic debris were logged by the Heal the Bay Organization during the month of July 2026?
 
 ## The Database
-I used the Marina Debris Tracker app from NOAA. https://debristracker.org/data.
+I used the Marine Debris Tracker app from NOAA. https://debristracker.org/data.
 
 This website only allows the user to sort by two parameters, organization and date. It is a worldwide database. I would love to be able to sort on Los Angeles or Lat/long values but the website does not allow that.
 For my csv export, I filtered the database on 'Heal the Bay' as the local LA organization and the time period Oct 1, 2025 - October 1, 2026 (the rainy season officially starts an Oct 1 each year. This period is defined as the 2026 Water Year). 
