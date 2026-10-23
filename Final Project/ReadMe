@@ -33,6 +33,8 @@ plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/eb3692192fdfbcce7f42f255224ebb5e3a4d3b07/Final%20Project/Plastics%20in%20July.png)
 
+![imagealt](
+
 The correlation heat map showed no strong correlation between 'plastic pieces' and any other plastic. 
 However, a more intensive investigation using prediction statistics and looking at each event or user's results would be more appropriate and may result in a usable correlation.
 
@@ -42,4 +44,4 @@ I cannot do this without extracting the entire worldwide database so I need to c
 I would like to find out how plastic types and amounts fluctuate with rain. Need to pull rain data and join that to my database.
 
 
-One chart embedded
+
