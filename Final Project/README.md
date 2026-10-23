@@ -44,7 +44,7 @@ There were 5085 pieces of plastic logged by Heal the Bay in July. The largest qu
 
 A little over 50% were classified as 'plastic pieces'. 
 
-Single use food replated plastics made up about one third; Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
+Single use food, related plastics made up about one third; Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
 I would like to target change in the this area. 
 
