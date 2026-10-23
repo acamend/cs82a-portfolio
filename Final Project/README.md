@@ -62,3 +62,20 @@ Is there an item type which would make a good predictor for 'plastic pieces'? In
 I would like to access all the materials logged along Ballona Creek. 
 I cannot do this without extracting the entire worldwide database so I need to contact the Marine Debris folks for different access.
 I would like to find out how plastic types and amounts fluctuate with rain. Need to pull rain data and join that to my database. I have already received the csv from NOAA on this.
+
+# AI Prompt Log
+
+## AI Prompt for initial cleaning and shrinking of my working database
+Tool: Gemini Prompt: You are helping to create a smaller database and clean some data: (1)My CSV has 18 columns. I want to create a new df, named plastic_df, that includes only 6 of the 18 columns, they are: [itemname], [material], [quantity], [location], [dt], [id]. (2) The date in the dt column is a string, change dtype to datetime. (3) There are numerous "materials' values. Only pull 'plastic' material into this database. I should end up with a smaller database that has only 6 columns and only plastic materials. Explain each step in comments.
+
+I verfied the data before and after and used the code with no changes.
+
+## AI Prompt 2
+You are helping me create plots using the plastic_df database I want to create (1) A plot to show total quantity of plastic each month. (2) Show a plot of the total quantity of each itemname in the month of July (3) plot of the quantity of each itemname in the month of July as a percent of the total items. Write Python using pandas and seaborn to: organize the data and produce the charts. Explain each step in comments.
+
+The code worked without error. One drawback with task (1), the code is that when summarizing the plastics per month, the code is written to define each month a a period (dtype string). Therefore November, with no data, is not in the plot. I left it as is but would change that if I were to use that in a report, not just a probe of the database.
+
+## AI Prompt #3
+I asked Gemini to provide the coding for step #3 to be a pie chart instead of bar chart. The chart is too crowded so I did not include it in this report although it can be see in my notebook.
+
+
