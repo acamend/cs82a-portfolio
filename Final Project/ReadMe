@@ -31,7 +31,7 @@ A little over 50% were classified as 'plastic pieces'.
 Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and 
 plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
-![imagealt](
+![imagealt](https://github.com/acamend/cs82a-portfolio/blob/eb3692192fdfbcce7f42f255224ebb5e3a4d3b07/Final%20Project/Plastics%20in%20July.png)
 
 The correlation heat map showed no strong correlation between 'plastic pieces' and any other plastic. 
 However, a more intensive investigation using prediction statistics and looking at each event or user's results would be more appropriate and may result in a usable correlation.
