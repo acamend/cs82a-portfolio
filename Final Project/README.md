@@ -39,10 +39,12 @@ A little over 50% were classified as 'plastic pieces'.
 Plastic snack bags/wrappers, beverage bottles, and bottle caps/rings accounted for about 25%, and 
 plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 
-![imagealt](
+![imagealt](https://github.com/acamend/cs82a-portfolio/blob/e94cb89d3fc3bee9b03b21aa1160a4abf797f8d5/Final%20Project/Plastic%20Percentages.png)
 
 The correlation heat map showed no strong correlation between 'plastic pieces' and any other plastic. 
 However, a more intensive investigation using prediction statistics and looking at each event or user's results would be more appropriate and may result in a usable correlation.
+
+![imagealt]
 
 ## Limitation and what next
 I would like to access all the materials logged along Ballona Creek. 
