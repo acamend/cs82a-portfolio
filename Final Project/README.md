@@ -32,9 +32,11 @@ Heal The Bay logged plastics in every month of the 2026 water year, except Novem
 
 The most plastic was logged in July, as seen above.
 
-There were 5085 pieces of plastic logged by Heal the Bay in July. 
+
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/eb3692192fdfbcce7f42f255224ebb5e3a4d3b07/Final%20Project/Plastics%20in%20July.png)
+
+There were 5085 pieces of plastic logged by Heal the Bay in July. The largest quantity on July 19.
 
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/e94cb89d3fc3bee9b03b21aa1160a4abf797f8d5/Final%20Project/Plastic%20Percentages.png)
