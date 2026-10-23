@@ -30,7 +30,7 @@ Heal The Bay logged plastics in every month of the 2026 water year, except Novem
 
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/211b230e142fffe11be39eb5436c45d757332941/Final%20Project/Plastics%20per%20month.png)
 
-The most plastic was logged in May, as seen above.
+The most plastic was logged in May, June and July as seen above. Warning: These data have not been adjusted for the number of events or participants, so one cannot assume that there is more trash on the beach in the summer. This is just a look at the data.
 
 
 
