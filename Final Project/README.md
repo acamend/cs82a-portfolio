@@ -54,7 +54,7 @@ This is the area where I aim to make change. I would like to create policies tha
 
 Is there an item type which would make a good predictor for 'plastic pieces'? In general whole plastic items break into smaller and smaller plastic items over time and the smaller the plastic, the more hazarous to life. It would be good to have a predictor of a type of plastic that is more easily found and communicated through these community science events. 
 
-![imagealt]https://github.com/acamend/cs82a-portfolio/blob/de9f749a502f691dc7798b616dd4613f363c3ee4/Final%20Project/Final_Correlation.png)
+![imagealt](https://github.com/acamend/cs82a-portfolio/blob/de9f749a502f691dc7798b616dd4613f363c3ee4/Final%20Project/Final_Correlation.png)
 
 **Findings:** The correlation heat map showed no strong correlation between 'plastic pieces' and any other plastic. However, a more intensive investigation using prediction statistics and looking at each event or user's results would be more appropriate and may result in a usable correlation. 
 
