@@ -9,8 +9,15 @@ For my csv export, I filtered the database on 'Heal the Bay' as the local LA org
 The exported database was (7883, 18) in size. See data dictionay in the Final Project file for information.
 The only change made was the dtype of column 'dt' (date) from string to datetime.
 
+#Actions Taken#
+To get to know the database, I investigated all the cities with Heal The Bay trash logging events
+I looked at the number of plastics found in each city.
+I looked at the material types
+I selected to only view plastic materials
+I looked at the itemnames under the plastic materials heading
 
-#Action
+I pulled a smaller working database from the larger import so I could look at different types of items in the "plastics" category.
+I plotted 
 
 What you found
 
