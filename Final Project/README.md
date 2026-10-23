@@ -39,6 +39,7 @@ The most plastic was logged in May, June and July as seen above. Warning: These 
 There were 5085 pieces of plastic logged by Heal the Bay in July. The largest quantity on July 19.
 
 
+
 ![imagealt](https://github.com/acamend/cs82a-portfolio/blob/e94cb89d3fc3bee9b03b21aa1160a4abf797f8d5/Final%20Project/Plastic%20Percentages.png)
 
 A little over 50% were classified as 'plastic pieces'. 
