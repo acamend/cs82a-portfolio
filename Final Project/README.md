@@ -4,13 +4,15 @@
 
 ## The Database
 I used the Marina Debris Tracker app from NOAA. https://debristracker.org/data.
+
 This website only allows the user to sort by two parameters, organization and date. It is a worldwide database. I would love to be able to sort on Los Angeles or Lat/long values but the website does not allow that.
 For my csv export, I filtered the database on 'Heal the Bay' as the local LA organization and the time period Oct 1, 2025 - October 1, 2026 (the rainy season officially starts an Oct 1 each year. This period is defined as the 2026 Water Year). 
+
 The exported database was (7883, 18) in size. See data dictionay in the Final Project file for information.
 The only change made was the dtype of column 'dt' (date) from string to datetime.
 
 ## Actions Taken
-To get to know the database, I investigated all the cities with Heal The Bay trash logging events
+To get to know the database, I investigated all the cities with Heal The Bay trash logging events.
 I looked at the number of plastics found in each city.
 I looked at the material types
 I selected to only view plastic materials
@@ -25,6 +27,9 @@ I ran a correspondance matrix to see if there was a correlation between 'plastic
 ## Findings
 In July of 2026, Heal the Bay logged the plastics in 13 cities, including Las Vegas Nevada.
 Heal The Bay logged plastics in every month of the 2026 water year, except November. 
+
+![imagealt](
+
 The most plastic was logged in July.
 There were 5085 pieces of plastic logged by Heal the Bay in July. 
 A little over 50% were classified as 'plastic pieces'. 
