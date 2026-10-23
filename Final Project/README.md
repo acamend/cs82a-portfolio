@@ -44,7 +44,7 @@ plates, cups/lids, utensils, stirrers/straws accounted for about 12%.
 The correlation heat map showed no strong correlation between 'plastic pieces' and any other plastic. 
 However, a more intensive investigation using prediction statistics and looking at each event or user's results would be more appropriate and may result in a usable correlation.
 
-![imagealt]
+![imagealt]https://github.com/acamend/cs82a-portfolio/blob/de9f749a502f691dc7798b616dd4613f363c3ee4/Final%20Project/Final_Correlation.png)
 
 ## Limitation and what next
 I would like to access all the materials logged along Ballona Creek. 
